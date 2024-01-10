@@ -9,10 +9,14 @@
 # Azure SIEM + Honeypot
 
 
-![1_XQ-wmvoqiz1Yg-RFpxwb_A](https://github.com/astroxhacker/siem-honeypot/assets/109857735/99621416-52d8-46fb-91f0-6fbe94b3ab98)
+![Untitled (1)](https://github.com/astroxhacker/siem-honeypot/assets/109857735/92628675-b613-4172-8015-2fbbe08c031c)
+
 
 # Introduction:
   Explore the intricacies of cybersecurity with our project that revolves around building a mini honeynet in Microsoft Azure. This endeavor involves integrating various log sources into a dedicated Log Analytics workspace, where Microsoft Sentinel utilizes these logs to craft attack maps, trigger alerts, and generate incidents. Delve into the realm of live cyberattacks, incident response, and a deep understanding of attackers' tactics, techniques, and procedures.
+
+![1_XQ-wmvoqiz1Yg-RFpxwb_A](https://github.com/astroxhacker/siem-honeypot/assets/109857735/7cdac129-8bdd-42c3-ab44-93ef84e61d44)
+
 
 # For detailed Steps, visit the Medium Page [Here](https://google.com) 
 
