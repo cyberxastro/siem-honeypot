@@ -18,7 +18,7 @@
 ![1_XQ-wmvoqiz1Yg-RFpxwb_A](https://github.com/astroxhacker/siem-honeypot/assets/109857735/7cdac129-8bdd-42c3-ab44-93ef84e61d44)
 
 
-# For detailed Steps, visit the Medium Page [Here](https://google.com) 
+# For detailed Steps, visit the Medium Page [Here](https://medium.com/@gauravss3703/soc-azure-sentinal-honeypot-with-live-traffic-25f305ca21ab) 
 
 # Objective:
 1. Analysis and Study:
